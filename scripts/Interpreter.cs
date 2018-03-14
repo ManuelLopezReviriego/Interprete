@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+[Obsolete("Use InterpreterAST.cs instead")]
 class Interpreter
 {
     private Lexer lexer;
